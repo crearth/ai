@@ -3,10 +3,9 @@
 ## Interesting links
 ### Learning
 
-For the basics:
+#### Basics
 - https://elementsofai.com
 - https://ai-cursus.be (Dutch)
 
-More in depth:
-#### Deep Learning
+#### More in depth
 - https://atcold.github.io/pytorch-Deep-Learning/
