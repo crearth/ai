@@ -13,3 +13,4 @@
 ### Papers
 - Learning a Driving Simulator:  https://arxiv.org/abs/1608.01230
 - Layered Neural Rendering for Retiming People in Video: https://arxiv.org/abs/2009.07833
+- Flow-edge Guided Video Completion: https://arxiv.org/abs/2009.01835
